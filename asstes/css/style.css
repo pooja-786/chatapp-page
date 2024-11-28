@@ -278,18 +278,38 @@ ul li .btn-1 {
     font-weight: 400;
     line-height: 29.11px;
     color: rgba(43, 53, 62, 1);
-    
+
 }
+
 .Support {
-    font-family: "Roboto",sans-serif;
-        font-size: 13px;
-        font-weight: 400;
-        line-height: 30px;
-        color: rgba(43, 53, 62, 0.7);
-        text-decoration: none !important;
-    
-        
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgba(43, 53, 62, 0.7);
+    text-decoration: none !important;
+
+
 }
+
+.footer-1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21.02px;
+    color: rgba(43, 53, 62, 0.7);
+
+}
+.mb-24{
+    margin-bottom: 24px;
+}
+.footer ul li {
+    padding-left: 0% !important;
+}
+.footer ul{
+    padding-left: 0px !important;
+}
+
 
 
 
