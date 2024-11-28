@@ -213,6 +213,27 @@ margin-top: 50px;
 
 }
 .group-star {
+    margin-top: 50px;
+}
+
+.text-modify-1 {
+    font-family: "Roboto",sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 29.11px;
+        color: rgba(43, 53, 62, 0.7);
+        
+}
+
+.ChatApp {
+    font-family: "Roboto",sans-serif;
+        font-size: 18px;
+        /* font-weight: 700; */
+        line-height: 29.11px;
+        color: rgba(43, 53, 62, 0.7);
+        margin-top: 50px;
+        padding-left: 10px;
+        
     
 }
 
